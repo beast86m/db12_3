@@ -18,4 +18,4 @@
 **Задание 4**
 
 
-![изображение](https://github.com/beast86m/db12_3/assets/47268167/b086daa9-43bb-46db-9c97-04566ae394e7)
+![изображение](https://github.com/beast86m/db12_3/assets/47268167/96e65479-27bf-4df7-9f60-f643a8beb2d3)
