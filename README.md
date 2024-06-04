@@ -13,3 +13,9 @@
 **Задание 3**
 
 ![изображение](https://github.com/beast86m/db12_3/assets/47268167/3ba31154-717d-4142-b9b5-f09187c6e17a)
+
+
+**Задание 4**
+
+
+![изображение](https://github.com/beast86m/db12_3/assets/47268167/b086daa9-43bb-46db-9c97-04566ae394e7)
