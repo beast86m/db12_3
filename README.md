@@ -7,7 +7,8 @@
 
 **Задание 2**
 
-![изображение](https://github.com/beast86m/db12_3/assets/47268167/a197eb1d-211e-4fe5-bfaa-e48ba99ab266)
+![изображение](https://github.com/beast86m/db12_3/assets/47268167/937e9134-d45b-4ba8-bcf3-b085dd18cf48)
+
 
 
 **Задание 3**
