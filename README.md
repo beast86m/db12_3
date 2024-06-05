@@ -6,7 +6,10 @@
 
 
 **Задание 2**
+
+
 запрос в редактируемом виде:
+
 SELECT * FROM payment WHERE payment_date BETWEEN **'2005-06-15 00:00:00'** AND **'2005-06-18 23:59:59'** AND amount > 10;
 
 ![изображение](https://github.com/beast86m/db12_3/assets/47268167/937e9134-d45b-4ba8-bcf3-b085dd18cf48)
